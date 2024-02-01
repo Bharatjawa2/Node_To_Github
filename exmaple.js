@@ -1,3 +1,5 @@
+console.log('Hi, buddy')
+
 const prompt= require("prompt-sync")();  
 let cn=43;
 let a =null;
